@@ -1,0 +1,10 @@
+{
+    "name": "see.readme",
+    "version": "0.1.1",
+    "scripts": {
+        "release": "standard-version",
+        "release:minor": "standard-version --release-as minor",
+        "release:patch": "standard-version --release-as atch",
+        "release:major": "standard-version --release-as major"
+    }
+}
